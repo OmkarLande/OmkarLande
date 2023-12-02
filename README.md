@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on [SkillHive (EdTech Project)](https://github.com/OmkarLande/EdTech)
+- 🔭 I’m currently working in Rajiv Gandhi Institute of Technology as a Intern.
 
 - 🌱 I’m currently learning **Next-js, ReactNative**
 
