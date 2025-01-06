@@ -65,7 +65,7 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarLande&show_icons=true&locale=en&layout=compact&theme=radical" alt="OmkarLande" /></p>
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OmkarLande&show_icons=true&locale=en&theme=radical" alt="OmkarLande" /></p>
-<p align="center" >&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarLande&" alt="OmkarLande" /></p>
+<!-- <p align="center" >&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarLande&" alt="OmkarLande" /></p> -->
 </div>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=OmkarLande&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
